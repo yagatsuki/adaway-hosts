@@ -5,3 +5,5 @@
 0.0.0.0 ad.line-scdn.net
 
 0.0.0.0 obs.line-scdn.net
+
+0.0.0.0 a.line.me
