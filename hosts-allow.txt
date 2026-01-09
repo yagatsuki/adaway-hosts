@@ -2,3 +2,5 @@
 s.youtube.com
 
 g.co
+
+al.dmm.co.jp
